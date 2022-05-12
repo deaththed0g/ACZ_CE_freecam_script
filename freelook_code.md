@@ -1,4 +1,3 @@
-```lua
 [ENABLE]
 //Hangar freecam by dead_d0g (death_the_d0g @ twitter)
 
@@ -82,10 +81,10 @@ writeBytes(base_address, 0)
 
 {$asm}
 
+
 [DISABLE]
 
 {$lua}
 writeBytes(base_address, 2)
 header.destroy()
 {$asm}
-```
