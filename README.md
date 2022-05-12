@@ -37,5 +37,5 @@ TODO
 
 Special thanks
 --------------
-BelkanLoyalist ( @ Twitter and ModDB) for testing and helping with some things.
-Frouk from the CE forums for the scripting help.
+-BelkanLoyalist ( @ Twitter and ModDB) for testing and helping with some things.
+-Frouk from the CE forums for the scripting help.
