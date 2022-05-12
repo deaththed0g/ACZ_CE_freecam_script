@@ -1,8 +1,11 @@
+```asm
 [ENABLE]
 //Hangar freecam by dead_d0g (death_the_d0g @ twitter)
+```
+
+```lua
 
 {$lua}
-
 --//Set search AoB and code-disabling camera function
 
 function gameplayCamControl(toggle)
@@ -376,16 +379,17 @@ if autoAssemble(search_aob) then
 else
 	--//If search was a failure then print a error message and unpause the emulator
 	print("Unable to run the script.")
-    print("The script will not work if you loaded a savestate.")
-    print("If you haven't used any savestates but you're still getting this message please contact me.")
 	unpause(pcsx2_emu_id)
 end
 
 {$asm}
+```
 
-
+```asm
 [DISABLE]
+```
 
+```lua
 {$lua}
 --//Restore values to default
 
@@ -420,3 +424,4 @@ header.destroy()
 gameplayCamControl(false)
 
 {$asm}
+```
