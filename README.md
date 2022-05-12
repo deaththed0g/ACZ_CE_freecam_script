@@ -34,6 +34,7 @@ TODO
 ----
 - Find a way to make the input of the freecam speed values a bit easier.
 - Add proper support for cockpit and HUD views.
+- Clean the code a bit.
 
 Special thanks
 --------------
