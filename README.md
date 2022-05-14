@@ -6,7 +6,7 @@ A Cheat Engine table file containing scripts that allows the user to enable a ve
 
 Besides the freecam scripts the table also comes with optional scripts that can modify some graphic parameters on the fly, locate entities and print their coordinates and even enable what seems to be a dummied out "free look" option as part of a (yet to be uncovered if it exists) debugging dev tools.
 
-The scripts themselves use a mix of assembly and LUA languages to perform the operations required to disable the game's camera code and give the user control to manipulate it. If you want to modify this table but want to get acquainted with the language or with Cheat Engine in general you can head over to their official [wiki](https://wiki.cheatengine.org/index.php?title=Main_Page) and/or [forums](https://forum.cheatengine.org/).
+The scripts within the table uses CE's Auto Assembler language to perform the operations required to disable the game's camera code and give the user control to manipulate it. If you want to modify this table but want to get acquainted with the language or with Cheat Engine in general you can head over to their official [wiki](https://wiki.cheatengine.org/index.php?title=Main_Page) and/or [forums](https://forum.cheatengine.org/).
 
 Required files/applications:
 ----------------------------
